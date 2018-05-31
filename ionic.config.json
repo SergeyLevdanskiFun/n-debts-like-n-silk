@@ -1,0 +1,8 @@
+{
+  "name": "n-debts-like-n-silk",
+  "app_id": "",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
